@@ -18,9 +18,15 @@
     <ClInclude Include="lexical_analysis.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="files_processing .h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="lexical_analysis.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="files_processing .cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

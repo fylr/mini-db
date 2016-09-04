@@ -146,9 +146,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="files_processing .h" />
     <ClInclude Include="lexical_analysis.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="files_processing .cpp" />
     <ClCompile Include="lexical_analysis.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
