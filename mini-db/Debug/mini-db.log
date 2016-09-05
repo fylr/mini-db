@@ -1,0 +1,20 @@
+﻿生成启动时间为 2016/9/5 13:17:37。
+     1>项目“C:\Users\Asus\Desktop\mini-db\mini-db\mini-db\mini-db.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt table.cpp
+         table.cpp
+     1>c:\users\asus\desktop\mini-db\mini-db\mini-db\table.cpp(65): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\asus\desktop\mini-db\mini-db\mini-db\table.cpp(83): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\asus\desktop\mini-db\mini-db\mini-db\table.cpp(95): warning C4018: “<”: 有符号/无符号不匹配
+       Link:
+         D:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Asus\Desktop\mini-db\mini-db\Debug\mini-db.exe" /INCREMENTAL /NOLOGO opencv_aruco310d.lib opencv_bgsegm310d.lib opencv_bioinspired310d.lib opencv_calib3d310d.lib opencv_ccalib310d.lib opencv_core310d.lib opencv_datasets310d.lib opencv_dnn310d.lib opencv_dpm310d.lib opencv_face310d.lib opencv_features2d310d.lib opencv_flann310d.lib opencv_fuzzy310d.lib opencv_highgui310d.lib opencv_imgcodecs310d.lib opencv_imgproc310d.lib opencv_line_descriptor310d.lib opencv_ml310d.lib opencv_objdetect310d.lib opencv_optflow310d.lib opencv_photo310d.lib opencv_plot310d.lib opencv_reg310d.lib opencv_rgbd310d.lib opencv_saliency310d.lib opencv_shape310d.lib opencv_stereo310d.lib opencv_stitching310d.lib opencv_structured_light310d.lib opencv_superres310d.lib opencv_surface_matching310d.lib opencv_text310d.lib opencv_tracking310d.lib opencv_ts310d.lib opencv_video310d.lib opencv_videoio310d.lib opencv_videostab310d.lib opencv_xfeatures2d310d.lib opencv_ximgproc310d.lib opencv_xobjdetect310d.lib opencv_xphoto310d.lib ippicvmt.lib Kinect10.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Asus\Desktop\mini-db\mini-db\Debug\mini-db.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Asus\Desktop\mini-db\mini-db\Debug\mini-db.lib" /MACHINE:X86 Debug\lexical_analysis.obj
+         Debug\main.obj
+         Debug\files_processing.obj
+         Debug\core_processing.obj
+         Debug\table.obj
+         mini-db.vcxproj -> C:\Users\Asus\Desktop\mini-db\mini-db\Debug\mini-db.exe
+     1>已完成生成项目“C:\Users\Asus\Desktop\mini-db\mini-db\mini-db\mini-db.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.15

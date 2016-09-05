@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mini-db", "mini-db\mini-db.vcxproj", "{27A2F351-D3D0-448F-9C5F-7D3EE70C2C94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27A2F351-D3D0-448F-9C5F-7D3EE70C2C94}.Debug|Win32.ActiveCfg = Debug|Win32
+		{27A2F351-D3D0-448F-9C5F-7D3EE70C2C94}.Debug|Win32.Build.0 = Debug|Win32
+		{27A2F351-D3D0-448F-9C5F-7D3EE70C2C94}.Release|Win32.ActiveCfg = Release|Win32
+		{27A2F351-D3D0-448F-9C5F-7D3EE70C2C94}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
